@@ -402,7 +402,7 @@ O diagrama de caso de uso é uma ferramenta de modelagem que descreve o comporta
 - Descrevem como o sistema é percebido por seus usuários.
 - Descrevem as interações entre os usuários e o sistema.
 
-![Diagrama de Caso de Uso](img/dcu1.png "Diagrama de Caso de Uso")
+![Diagrama de Caso de Uso](IMG/dcu1.png "Diagrama de Caso de Uso")
 
 **Os casos de uso:**
 - Descrevem como os **usuários interagem com o sistema** (as funcionalidades do sistema)
@@ -421,7 +421,7 @@ O diagrama de caso de uso é uma ferramenta de modelagem que descreve o comporta
 
 Notação:
 
-![Atores Notação](img/dcu_atores_notacao.png "Atores Notação")
+![Atores Notação](IMG/dcu_atores_notacao.png "Atores Notação")
 
 **Exemplo: Loja de CDs**
 
@@ -429,7 +429,7 @@ Notação:
 - Uma loja de CDs possui discos para venda. Um cliente pode comprar uma quantidade ilimitada de discos para isto ele deve se dirigir à loja.
 - A loja possui um **atendente** cuja função é atender os clientes durante a venda dos discos. A loja também possui um **gerente** cuja função é administrar o estoque para que não faltem discos. Além disso é ele quem dá folga ao atendente, ou seja, ele também atende os clientes durante a venda dos discos.
 
-![Identificando os atores](img/dcu_identificando_atores.png "Identificando os atores")
+![Identificando os atores](IMG/dcu_identificando_atores.png "Identificando os atores")
 
 **E o cliente?**
 - Não é ator pois ele **não interage** com o sistema!
@@ -443,7 +443,7 @@ Notação:
 
 Notação:
 
-![Casos de uso Notação](img/dcu_casos_de_uso_notacao.png "Casos de uso Notação")
+![Casos de uso Notação](IMG/dcu_casos_de_uso_notacao.png "Casos de uso Notação")
 
 **7.2.3 Relacionamentos**
 **7.2.3.1 Relacionamento de associação**
@@ -456,7 +456,7 @@ Notação:
 > - Não use setas nas linhas de associação.
 > - Associações não representam fluxo de informação.
 
-![Relacionamento de associação](img/dcu_relacionamento_de_associacao.png "Relacionamento de associação")
+![Relacionamento de associação](IMG/dcu_relacionamento_de_associacao.png "Relacionamento de associação")
 
 **7.2.3.2 Relacionamento de generalização/especialização**
 
@@ -470,7 +470,7 @@ Notação:
 
 **Notação:**
 
-![Relacionamento de generalização/especialização de atores - notação](img/dcu_relacionamento_de_generalizacao_especializacao_notacao_de_atores.png "Relacionamento de generalização/especialização de atores - notação")
+![Relacionamento de generalização/especialização de atores - notação](IMG/dcu_relacionamento_de_generalizacao_especializacao_notacao_de_atores.png "Relacionamento de generalização/especialização de atores - notação")
 
 **Generalização de casos de uso**
 
@@ -482,7 +482,7 @@ Notação:
 
 Notação:
 
-![Relacionamento de generalização/especialização de casos de uso - notação](img/dcu_relacionamento_de_generalizacao_especializacao_notacao_de_casos_de_uso.png "Relacionamento de generalização/especialização de casos de uso - notação")
+![Relacionamento de generalização/especialização de casos de uso - notação](IMG/dcu_relacionamento_de_generalizacao_especializacao_notacao_de_casos_de_uso.png "Relacionamento de generalização/especialização de casos de uso - notação")
 
 **7.2.3.3 Relacionamento de dependência**
 **Extensão**
@@ -497,7 +497,7 @@ em outros casos de uso).
 
 **Notação:**
 
-![Relacionamento de dependência (extensão) - notação](img/dcu_relacionamento_de_dependencia_extensao_notacao.png "Relacionamento de dependência (extensão) - notação")
+![Relacionamento de dependência (extensão) - notação](IMG/dcu_relacionamento_de_dependencia_extensao_notacao.png "Relacionamento de dependência (extensão) - notação")
 
 
 **Inclusão**
@@ -507,7 +507,7 @@ em outros casos de uso).
 
 **Notação:**
 
-![Relacionamento de dependência (inclusão) - notação](img/dcu_relacionamento_de_dependencia_inclusao_notacao.png "Relacionamento de dependência (inclusão) - notação")
+![Relacionamento de dependência (inclusão) - notação](IMG/dcu_relacionamento_de_dependencia_inclusao_notacao.png "Relacionamento de dependência (inclusão) - notação")
 
 **7.2.4 Fronteira do sistema**
 
@@ -516,6 +516,6 @@ em outros casos de uso).
 
 **Identificando a fronteira do sistema**
 
-![Identificando a fronteira do sistema](img/dcu_identificando_a_fronteira_do_sistema.png "Identificando a fronteira do sistema")
+![Identificando a fronteira do sistema](IMG/dcu_identificando_a_fronteira_do_sistema.png "Identificando a fronteira do sistema")
 
 ---
